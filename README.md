@@ -4,7 +4,7 @@
 
 During the research for a statistics lecture, I came a across the thread [Pearson's or Spearman's correlation with non-normal data](https://stats.stackexchange.com/questions/3730/pearsons-or-spearmans-correlation-with-non-normal-data). Multiple comments address Kendall's Tau, which is a nonparametric measure of rank correlation with supposedly desireable properties. 
 Since I never heard of this measure before, I decided to play around with a simple data set and use Kendall's tau as a measure of association:
-<img src="Scatter_Plot_Life_Span_vs_Sleep.png" alt= “Scatter-Plot:Life-Span-vs-Sleep” width="60%" height="3">
+<img src="Scatter_Plot_Life_Span_vs_Sleep.png" alt= “Scatter-Plot:Life-Span-vs-Sleep” width="60%" height="500">
 But before examining this data set further, I'll introduce the basics of Kendall's tau.
 
 ## Kendall's tau basics
