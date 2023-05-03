@@ -7,6 +7,8 @@ Since I never heard of this measure before, I decided to play around with a simp
 
 <img src="Scatter_Plot_Life_Span_vs_Sleep.png" alt= “Scatter-Plot:Life-Span-vs-Sleep” width="55%" height="300">
 
+(You can find more information regarding the data set on <a href="https://www.kaggle.com/datasets/volkandl/sleep-in-mammals" target="_blank" rel="noreferrer noopener">Kaggle</a>)
+
 But before examining this data set further, I'll introduce the basics of Kendall's tau.
 
 ## Kendall's tau basics
