@@ -12,6 +12,6 @@ But before examining this data set further, I'll introduce the basics of Kendall
 ## Kendall's tau basics
 
 Tau is a nonparametric measure of association introduced by Maurice G. Kendall in *Rank correlation methods* (You can read this book 
-<a href="https://archive.org/details/rankcorrelationm0000kend/mode/2up" target="_blank">here</a> for free. It is easy to read).
+<a href="https://archive.org/details/rankcorrelationm0000kend/mode/2up" target="_blank" rel="noreferrer noopener">here</a> for free. It is easy to read).
 As a nonparametric measure **inferences** require, in contrast to Pearson’s coefficient, no assumption regarding the bivariate distribution. Also, Kendall's tau is more intuitive and easier to interpret than Spearman's rho. 
 
